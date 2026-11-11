@@ -101,3 +101,4 @@ def generate_explanation_diagram(output_path: str = "assets/matplotlib_explanati
 if __name__ == "__main__":
     out = sys.argv[1] if len(sys.argv) > 1 else "assets/matplotlib_explanation.png"
     generate_explanation_diagram(out)
+

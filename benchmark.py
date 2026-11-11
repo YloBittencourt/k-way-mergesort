@@ -78,3 +78,4 @@ if __name__ == "__main__":
     print("Iniciando bateria de testes comparativos...")
     res = run_benchmark(sample_sizes, test_k_values, trials=2)
     plot_benchmark_results(sample_sizes, res, out_file)
+

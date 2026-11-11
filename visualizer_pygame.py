@@ -317,3 +317,4 @@ if __name__ == "__main__":
     else:
         app = PygameVisualizer(width=1050, height=680, n=48, k=4)
         app.run()
+

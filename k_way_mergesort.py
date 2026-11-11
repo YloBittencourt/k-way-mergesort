@@ -231,3 +231,4 @@ def k_way_mergesort_visual(arr: List[int], k: int = 3) -> Generator[AnimationSte
         description="Ordenação concluída com sucesso!",
         stats=stats
     )
+

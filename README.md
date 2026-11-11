@@ -183,3 +183,4 @@ k-way-mergesort/
 ## 📝 Licença
 
 Distribuído sob a licença **MIT**. Consulte `LICENSE` para mais informações.
+

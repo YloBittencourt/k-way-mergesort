@@ -45,3 +45,4 @@ clean:
 	rm -rf $(BUILD_DIR) $(BIN_DIR)
 
 .PHONY: all test benchmark run clean
+
