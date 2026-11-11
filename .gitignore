@@ -1,0 +1,17 @@
+# Ambientes virtuais Python
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Binários e builds em C
+bin/
+build/
+*.o
+*.out
+
+# Arquivos de sistema e IDE
+.DS_Store
+.vscode/
+.idea/
